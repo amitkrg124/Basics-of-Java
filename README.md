@@ -1,2 +1,2 @@
 # Basics-of-Java
-learning of java basics
+Learning concept of Java with Code,
